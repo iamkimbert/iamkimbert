@@ -20,3 +20,21 @@ I'm a Software Engineer with an interest in the language of computers. In this s
 ![Windows Badge](https://img.shields.io/badge/Microsoft_Windows-ffddf4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-ffddf4?style=for-the-badge&logo=linux&logoColor=black)
 ![Apple IOS Badge](https://img.shields.io/badge/Apple_macOS-ffddf4?style=for-the-badge&logo=apple&logoColor=white)
+
+## Videos
+[Understanding Human-Cobot Interactions in Automation](https://www.youtube.com/watch?v=3IaM9SlYKLY) 
+
+[CBIR System Using Query By Example QBE](https://www.youtube.com/watch?v=ORjh1DdhqHw)
+
+[Stack Calculator](https://www.youtube.com/watch?v=FImmrUc6WTI)
+
+[Understanding Wikipedia as a Resource for Opportunistic Learning of Computer Concepts](https://www.youtube.com/watch?v=glun0Rl76Qg)
+
+[Object Classifier using MATLAB example](https://www.youtube.com/watch?v=_mNgsuLg0C4)
+
+[Hybrid Hierachail Clustering/ Kmeans Clustering Function](https://www.youtube.com/watch?v=4UPE2kd0fok)
+
+[Understanding Parenting Stress through Co-designed Self-Trackers](https://www.youtube.com/watch?v=57knbtcYbRc)
+
+[Teaching Accessibility Using Participatory Design: An Experience Report](https://www.youtube.com/watch?v=8F0RZCBd89I)
+
