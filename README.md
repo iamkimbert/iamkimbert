@@ -21,7 +21,7 @@ I'm a Software Engineer with an interest in the language of computers. In this s
 ![Linux Badge](https://img.shields.io/badge/Linux-ffddf4?style=for-the-badge&logo=linux&logoColor=black)
 ![Apple IOS Badge](https://img.shields.io/badge/Apple_macOS-ffddf4?style=for-the-badge&logo=apple&logoColor=white)
 
-## Videos
+## Youtube Videos
 [Understanding Human-Cobot Interactions in Automation](https://www.youtube.com/watch?v=3IaM9SlYKLY) 
 
 [CBIR System Using Query By Example QBE](https://www.youtube.com/watch?v=ORjh1DdhqHw)
