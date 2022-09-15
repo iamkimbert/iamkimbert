@@ -11,10 +11,11 @@ I'm a Software Engineer with an interest in the language of computers. In this s
 ![HTML Badge](https://img.shields.io/badge/HTML5-9bddff?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-d0f0c0?style=for-the-badge&logo=css3&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-e8f48c?style=for-the-badge&logo=python&logoColor=black)
-![CSharp Badge](https://img.shields.io/badge/CSharp-c08081?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-f77f00?style=for-the-badge&logo=php&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-b2ec5d?style=for-the-badge&logo=r&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ffbcd9?style=for-the-badge&logo=java&logoColor=black)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ## Applications
 ![Windows Badge](https://img.shields.io/badge/Microsoft_Windows-ffddf4?style=for-the-badge&logo=windows&logoColor=white)
