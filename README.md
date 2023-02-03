@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kimberly. Welcome to my GitHub.
+### Hi there 👋 I'm Kimberly. Welcome to my GitHub. <a href='https://ko-fi.com/A0A8IFE8B' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 ---
 I'm a Software Engineer with an interest in the language of computers. In this stage of my Computer Science journey, I'm taking a dive in the world of Data Analytics. I've grown fond of using applications to display big data in a user friendly environment. When I am not coding, I'm usually at a coffeeshop somewhere reading. 
 
